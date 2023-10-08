@@ -1,4 +1,4 @@
-#include "Plus.h"
+#include "Times.h"
 
 int main() {
 
@@ -6,11 +6,11 @@ int main() {
     int a, b;
 
     // 赋值
-    a = 1;
-    b = 2;
+    a = 4;
+    b = 5;
 
     // 打印
-    printf("%d + %d = %d", a, b, a + b);
+    printf("%d x %d = %d", a, b, a * b);
 
     return 0;
 
