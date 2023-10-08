@@ -1,4 +1,4 @@
-#include "HelloWorld.h"
+#include <stdio.h>
 
 int main() {
 
