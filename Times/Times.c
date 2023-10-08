@@ -10,7 +10,7 @@ int main() {
     b = 5;
 
     // 打印
-    printf("%d x %d = %d", a, b, a * b);
+    printf("%d x %d = %d\n", a, b, a * b);
 
     return 0;
 
