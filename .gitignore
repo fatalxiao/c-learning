@@ -1,5 +1,6 @@
 # Idea project files
 .idea
+cmake-build-debug
 
 # Vscode project files
 .editorconfig
